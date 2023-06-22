@@ -1,0 +1,26 @@
+body{
+ background-color:rgb(117, 163, 148);
+}
+
+nav ul li a{
+    font-family: sans;
+    font-weight: 200px;
+    font-size: 20px;
+}
+
+nav ul li a:hover{
+    font-size: 26px;
+}
+
+.list-group a{
+    font-size: 18px;
+    font-family: sans;
+}
+
+.list-group a:hover{
+    font-size: 23px;
+    font-family:cursive;
+    background-color: rgb(61, 108, 108);
+    color: aliceblue;
+}
+
